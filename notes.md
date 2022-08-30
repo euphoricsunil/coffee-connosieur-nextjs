@@ -1,0 +1,5 @@
+- \_\_app is the entry point
+- add a page in pages folder to get automatic routes for the specified page
+- api folder for backend services building
+- public for static items
+- global.css for the whole app
